@@ -1,0 +1,1 @@
+For each user-facing change, increment the minor component of `APP_VERSION` in `app_version.py` (for example, `0.1` to `0.2`). The UI and Windows ZIP derive their `v0.x` labels from that value. Rebuild the portable ZIP when delivering a release.
